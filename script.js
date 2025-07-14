@@ -16,7 +16,7 @@ class FoodWheel {
         this.choices = ['Pizza', 'Burger', 'Sushi', 'Pasta', 'Salad', 'Tacos'];
         
         this.mealCategories = {
-            fastFood: ['Pizza', 'Burger', 'Hot Dog', 'Chicken Wings', 'Fish & Chips', 'Sub Sandwich', 'Fried Shrimp', 'Onion Rings', 'Mozzarella Sticks'],
+            fastFood: ['Pizza', 'Burger', 'Hot Dog', 'Chicken Wings', 'Fish & Chips', 'Sub Sandwich', 'Fried Chicken', 'Fried Shrimp', 'Onion Rings', 'Mozzarella Sticks'],
             asian: ['Sushi', 'Ramen', 'Pad Thai', 'Curry', 'Dumplings', 'Teriyaki', 'Pho', 'Korean BBQ', 'Beef Noodle', 'Bibimbap', 'Spring Rolls', 'General Tso\'s Chicken'],
             italian: ['Pasta', 'Lasagna', 'Risotto', 'Pizza', 'Calzone', 'Osso Buco', 'Gnocchi', 'Carbonara', 'Margherita Pizza'],
             healthy: ['Salad', 'Grilled Chicken', 'Quinoa Bowl', 'Smoothie Bowl', 'Veggie Wrap', 'Soup', 'Avocado Toast', 'Roasted Veggies', 'Chickpea Salad'],
