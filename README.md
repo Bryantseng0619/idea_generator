@@ -1,6 +1,6 @@
-# What Should I Eat For 🍕🍔🍜
+# What Should I Get For Lunch/Dinner 🍕🍔🍜
 
-A friendly web application to help users decide what to eat for lunch or dinner using an interactive spinning wheel!
+A friendly web application to help users decide what to get for lunch or dinner using an interactive spinning wheel!
 
 ## 🌟 Features
 
@@ -95,7 +95,7 @@ Feel free to contribute to this project! Here are some ideas:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Apache 2.0 License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -107,4 +107,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Made with ❤️ for indecisive food lovers everywhere!**
 
-Visit the app: [whatshouldieatfor.com](https://whatshouldieatfor.com) 
+Visit the app: [whatshouldiget.today](https://whatshouldiget.today) 
